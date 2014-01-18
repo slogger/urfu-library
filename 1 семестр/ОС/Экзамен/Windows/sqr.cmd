@@ -8,11 +8,13 @@ if %test%==0 (
 		goto err
 	)
 )
-set /a sum=%1*%1
+set /a math=%1
+set /a sum=%math%*%math%
 echo %sum%
 goto exit
 
 :err
 echo Input number, please
+return 1
 
 :exit

@@ -1,0 +1,2 @@
+%ProgramData%\Microsoft\Windows\Start 
+совпадений: 

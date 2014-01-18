@@ -1,5 +1,5 @@
 @echo off
-title Witch
+title Which
 rem setlocal enabledelayedexpansion
 if "%1"=="" (echo Don't argumets! & goto help)
 rem if "%1"=="/i" goto input
