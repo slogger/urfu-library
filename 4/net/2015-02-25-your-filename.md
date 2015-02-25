@@ -29,7 +29,7 @@
 	* tock.usno.navy.mil
 2. time.mist.gov
 3. У провайдера оборудования
-4. 
+4.
 	* pool.ntp.org
    	* ru.-//-
 
